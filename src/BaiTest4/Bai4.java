@@ -27,7 +27,7 @@ public class Bai4 {
 		} else {
 			System.out.println("moi ban nhap lai");
 		}
-
+		sc.close();
 	}
 
 }

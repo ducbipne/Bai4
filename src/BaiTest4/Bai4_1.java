@@ -51,7 +51,7 @@ public class Bai4_1 {
 				System.exit(0);
 			}
 		}
-
+		sc.close();
 	}
 
 }
